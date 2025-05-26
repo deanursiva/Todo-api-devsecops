@@ -1,0 +1,15 @@
+{
+  "name": "todo-api-devsecops",
+  "version": "1.0.0",
+  "description": "Simple Todo API with Node.js + Secure CI/CD Pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
